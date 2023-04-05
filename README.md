@@ -4,7 +4,7 @@
 ссылка на коллаб  https://colab.research.google.com/drive/1gOQrzcU6xAwqzs3cOpCVrSopfxPTXaYM?usp=sharing
 
 
-Клеточная линия PC-3 отсутсвует в ucsc, поэтому я буду использовать HeLa-S3
+Клеточная линия  HeLa-S3
 
 Список
 
