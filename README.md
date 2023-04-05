@@ -25,7 +25,7 @@ http://hgdownload.cse.ucsc.edu/goldenPath/hg19/encodeDCC/wgEncodeBroadHistone/wg
 http://hgdownload.cse.ucsc.edu/goldenPath/hg19/encodeDCC/wgEncodeBroadHistone/wgEncodeBroadHistoneHelas3H3k09me3AlnRep1.bam  H3k09me3.bam
 
 
-#ChromHMM
+# ChromHMM
 
 
 ![emissions_15](https://user-images.githubusercontent.com/115100892/230187394-9a0110a6-5eef-4e94-ae4b-e73b3c74168e.png)
