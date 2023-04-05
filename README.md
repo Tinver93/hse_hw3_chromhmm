@@ -1,5 +1,9 @@
 # hse_hw3_chromhmm
 
+
+ссылка на коллаб  https://colab.research.google.com/drive/1gOQrzcU6xAwqzs3cOpCVrSopfxPTXaYM?usp=sharing
+
+
 Клеточная линия PC-3 отсутсвует в ucsc, поэтому я буду использовать HeLa-S3
 
 Список
@@ -36,3 +40,9 @@ http://hgdownload.cse.ucsc.edu/goldenPath/hg19/encodeDCC/wgEncodeBroadHistone/wg
 ![Hela-S3_15_RefSeqTES_neighborhood](https://user-images.githubusercontent.com/115100892/230189534-39010389-6f77-4b34-ba52-a0aba2614f94.png)
 
 ![Hela-S3_15_RefSeqTSS_neighborhood](https://user-images.githubusercontent.com/115100892/230189570-e0371129-4934-4acc-ab1f-ba8416a66549.png)
+
+
+
+
+![image](https://user-images.githubusercontent.com/115100892/230194983-496ca5bb-ffe0-4029-aeeb-fe3bc9307246.png)
+
