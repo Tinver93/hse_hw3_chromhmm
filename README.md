@@ -48,5 +48,7 @@ http://hgdownload.cse.ucsc.edu/goldenPath/hg19/encodeDCC/wgEncodeBroadHistone/wg
 
 
 Промомтор - H3K79me2, H3K36me3, H3K27me3, H3K9me3, H3K4me2, H3K4me3
+
 Ламина - H2afz,  H3K4me2, H3K4me3,  H3K9ac, H3K27ac
+
 Энхансер - H3K79me2, H3K36me3, H3K4me2
