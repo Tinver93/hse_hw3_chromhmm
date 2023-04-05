@@ -30,3 +30,9 @@ http://hgdownload.cse.ucsc.edu/goldenPath/hg19/encodeDCC/wgEncodeBroadHistone/wg
 
 ![emissions_15](https://user-images.githubusercontent.com/115100892/230187394-9a0110a6-5eef-4e94-ae4b-e73b3c74168e.png)
 
+![Hela-S3_15_overlap](https://user-images.githubusercontent.com/115100892/230189471-8bbf9626-0146-4994-929f-f7dd5f33ece4.png)
+
+
+![Hela-S3_15_RefSeqTES_neighborhood](https://user-images.githubusercontent.com/115100892/230189534-39010389-6f77-4b34-ba52-a0aba2614f94.png)
+
+![Hela-S3_15_RefSeqTSS_neighborhood](https://user-images.githubusercontent.com/115100892/230189570-e0371129-4934-4acc-ab1f-ba8416a66549.png)
